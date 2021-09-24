@@ -5,7 +5,6 @@ import edu.uaslp.animals.Bird;
 import edu.uaslp.animals.Dog;
 
 public class Main {
-
     public static void main(String[] args){
         Animal animal= new Animal();
         Bird ave= new Bird();

@@ -1,6 +1,8 @@
 package edu.uaslp.animals;
 
-public class Dog extends Animal {
+import edu.uaslp.reproduction.Mammal;
+
+public class Dog extends Mammal {
 
     public void walk() {
         System.out.println("Mueve patitas");

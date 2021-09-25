@@ -1,8 +1,8 @@
 package edu.uaslp.animals;
 
-import edu.uaslp.reproduction.Mammal;
+import edu.uaslp.reproduction.Oviparous;
 
-public class Bird extends Mammal {
+public class Bird extends Oviparous {
 
     public void fly() {
         System.out.println("Mueve alas");
